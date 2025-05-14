@@ -1,0 +1,6 @@
+data/
+models/__pycache__/
+mongo/__pycache__/
+task1/__pycache__/
+output/
+data/Chicago_Crimes.csv
